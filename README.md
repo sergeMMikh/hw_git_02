@@ -57,7 +57,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
   **Решение**
 
-  ![](images/Task_1.png)
+  ![Task_1](images/Task_1.png)
 
 ### Bitbucket* (задание со звёздочкой) 
 
@@ -106,7 +106,12 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Выполните push локальной ветки `main` в новые репозитории. 
 
-Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
+Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать.
+
+  **Решение**
+
+  ![Task_2](images/Task_2.png)
+
 
 ## Задание 2. Теги
 
