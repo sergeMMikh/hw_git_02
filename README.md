@@ -123,7 +123,20 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
-    * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+    * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
+  
+  **Решение**
+
+  * Создание тегов: </br>
+    ![Task_2_1](images/Task_2_1.png)</br>
+  * github:</br>
+    ![Task_2_1](images/Task_2_1.png)</br>
+  * gitlab:</br>
+    ![Task_2_1](images/Task_2_1.png)</br>
+  * bitbucket:</br>
+    ![Task_2_1](images/Task_2_1.png)</br>
+  
+  
 
 ## Задание 3. Ветки 
 
@@ -133,11 +146,18 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания. 
 1. Выполните `git checkout` по хешу найденного коммита. 
 1. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
-1. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
-1. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. 
+1. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.</br>
+  **Решение**</br>
+  ![Task_2](images/Task_3_1.png)
+1. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. </br>
+  **Решение**</br>
+  ![Task_2](images/Task_3_2.png)
 1. Теперь измените содержание файла `README.md`, добавив новую строчку.
 1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
-и как изменится вывод команды `git log`.
+и как изменится вывод команды `git log`.</br>
+  **Решение**</br>
+  ![Task_2](images/Task_3_3.png)</br>
+  ![Task_2](images/Task_3_4.png)
 
 ## Задание 4. Упрощаем себе жизнь
 
