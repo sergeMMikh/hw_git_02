@@ -180,11 +180,4 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
   ![Task_4](images/Task_4.png)
 
-*В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
- 
-----
-
-### Правила приёма домашнего задания
-
-В личном кабинете отправлены ссылки на ваши репозитории.
 
